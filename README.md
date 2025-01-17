@@ -1,6 +1,6 @@
 # Hi there 👋, welcome to my GitHub profile!  
 
-I'm **Arthvrr**, a belgian developper. 🏫   
+I'm **Arthvrr**, a belgian developper 💻
 
 ---
 

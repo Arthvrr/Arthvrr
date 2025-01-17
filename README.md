@@ -1,12 +1,12 @@
 # Hi there 👋, welcome to my GitHub profile!  
 
-I'm **Arthvrr**, a student at **Louvain School of Engineering** in Louvain-la-Neuve. 🏫   
+I'm **Arthvrr**, a belgian developper. 🏫   
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Currently studying:** Engineering with a focus on computer sciences and technology.  
+- 🎓 **Currently studying:** Computer Science at **Louvain School of Engineering** in Louvain-la-Neuve.
 - 🍎 **Operating System of choice:** Proud **macOS enjoyer** – sleek, efficient, and developer-friendly!  
 - 💡 **Always learning:** New programming concepts, frameworks, and tools to improve my skills.  
 

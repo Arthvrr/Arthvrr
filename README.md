@@ -8,7 +8,8 @@ I'm **Arthvrr**, a belgian developper 💻
 
 - 🎓 **Currently studying:** Computer Science at **Louvain School of Engineering** in Louvain-la-Neuve.
 - 🍎 **Operating System of choice:** Proud **macOS enjoyer** – sleek, efficient, and developer-friendly!  
-- 💡 **Always learning:** New programming concepts, frameworks, and tools to improve my skills.  
+- 💡 **Always learning:** New programming concepts, frameworks, and tools to improve my skills.
+- 🤖 **Passionate about AI:** Always fascinated by the world of Artificial Intelligence and eager to explore its potential and applications.
 
 ---
 
@@ -34,11 +35,14 @@ Here are some of the tools and technologies I frequently use:
   ![Oz](https://img.shields.io/badge/Oz-2E3A87?style=for-the-badge&logo=oz&logoColor=white)
   ![Dafny](https://img.shields.io/badge/Dafny-8F2855?style=for-the-badge&logo=dafny&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 - **Tools:**  
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 

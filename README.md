@@ -13,11 +13,20 @@ I'm **Arthvrr**, a belgian developer 💻
 
 ---
 
+## 🏗️ Currently Working On
+
+- 🧠 **[MyRAG](https://github.com/Arthvrr/MyRAG):** Building my own local RAG (Retrieval-Augmented Generation) system to have a 100% secure, private, and offline AI assistant.
+- 📚 **[Bloc.us](https://github.com/Arthvrr/Bloc.us):** A native macOS app coded in Swift designed to help students track and organize their study sessions during the "blocus" (exam prep period).
+- 📈 **[BlueChip](https://github.com/Arthvrr/BlueChip):** A completely free and ultra-detailed financial portfolio tracking application.
+
+---
+
 ## 📫 Contact Me  
 
 You can reach me here:  
-- **Email:** [arthvrr@indigobook.com](mailto:arthvrr@indigobook.com)  
-- **GitHub:** [@Arthvrr](https://github.com/Arthvrr)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthvrr@indigobook.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-louette-aba5b4380/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arthvrr)  
 
 ---
 
@@ -56,7 +65,14 @@ Here are some of the tools and technologies I frequently use:
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arthvrr&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📊 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthvrr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthvrr&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthvrr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthvrr&layout=compact&theme=radical" alt="Top Languages" />
+</div>

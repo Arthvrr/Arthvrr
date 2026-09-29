@@ -28,7 +28,7 @@ I'm **Arthvrr**, a Belgian Computer Science & AI Engineering student 💻
 - 📊 **[Intrinsic](https://github.com/Arthvrr/Intrinsic):** An iOS investment valuation app utilizing Discounted Cash Flow (DCF) models and historical P/E analysis.
 - 📚 **[Bloc.us](https://github.com/Arthvrr/Bloc.us):** A native macOS app coded in Swift designed to help students track and organize their study sessions during the "blocus" (exam prep period).
 - 🧾 **[mytob.be](https://github.com/Arthvrr/mytob.be):** A web platform allowing Belgian investors to easily settle their TOB (Stock Exchange Tax), featuring automatic form generation and integrated QR code payments.
-- 🎧 **[silentgroove](https://github.com/Arthvrr/SilentGroove):** A custom web application built with JavaScript for streaming music for free with a seamless, interactive user interface.
+- 🎧 **[SilentGroove](https://github.com/Arthvrr/SilentGroove):** A custom web application built with JavaScript for streaming music for free with a seamless, interactive user interface.
 
 ---
 

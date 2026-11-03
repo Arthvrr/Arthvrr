@@ -9,7 +9,7 @@ I'm **Arthvrr**, a Belgian Computer Science & AI Engineering student 💻
 - 🎓 **Currently studying:** Final-year Master's degree in Artificial Intelligence at the **Louvain School of Engineering** (UCLouvain, Belgium).
 - 🍕 **Currently located in:** Padua, Italy 🇮🇹 for an academic exchange program at the **University of Padua**, deepening my knowledge in cutting-edge AI (Computer Vision, Speech Technologies, Explainable AI - xAI).
 - 🍎 **Operating System of choice:** Proud **macOS enjoyer** – sleek, efficient, and developer-friendly!  
-- 💼 **Portfolio:** Discover my full journey, resume, and detailed projects on my developer website: **[arthvrr.github.io/arthurlouette](https://arthvrr.github.io/arthurlouette/)**
+- 💼 **Portfolio:** Discover my full journey, resume, and detailed projects on my developer website: **[arthvrr.github.io/arthurlouette](https://arthurlouette.be)**
 
 ---
 
